@@ -33,3 +33,7 @@ Esta procedure pode ser útil para sistemas que:
 - Querem automatizar esse processo e ganhar tempo
 
 ---
+⚠️ Atenção: este código é genérico e não utiliza dados reais de atendimentos, paciente. Foi adaptado para fins de exemplo.
+
+Autor
+Desenvolvido por Gabriel Lisboa Alves👨‍💻
